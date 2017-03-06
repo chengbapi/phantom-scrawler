@@ -1,3 +1,6 @@
+## intro
+这是一个通过phantomjs模拟用户的爬虫，可以爬取一些在需要在前端运行脚本进行身份的网站。不同定制网站的爬虫任务。
+
 ## install
 * ` npm install -g phantomjs`
 * ` npm install`
